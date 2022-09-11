@@ -2,7 +2,7 @@
   "name": "landing_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mintjulep21.github.io",
+  "homepage": "https://mintjulep21.github.io/adamtapp_landing_page/",
   "dependencies": {
     "-": "^0.0.1",
     "@emailjs/browser": "^3.7.0",

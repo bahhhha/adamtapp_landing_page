@@ -31,7 +31,7 @@ const icons = [
 	},
 	{
 		id: 4,
-		name: "Соц. предприятиям и НПО",
+		name: "Соц. предприятиям",
 		img: hospitalpic,
 	},
 	// {
@@ -61,7 +61,7 @@ const benefits = [
 
 const Benefit = ({ text, icon }) => {
 	return (
-		<div className="flex lg:flex-row flex-col justify-start lg:w-1/3 w-1/2 py-7 m-auto text-left text-xl font-light lg:py-5">
+		<div className="flex lg:flex-row flex-col justify-start lg:w-1/3 w-3/5 py-7 m-auto text-left text-xl font-light lg:py-5">
 			<div className="flex w-1/6 m-auto">
 				<img
 					src={icon}
@@ -269,12 +269,12 @@ const NavBar = () => {
 
 const WelcomeText = () => {
 	return (
-		<div>
-			<div className="lg:w-3/4 w-4/5 text-center lg:py-16 pb-5 lg:leading-tight m-auto text-4xl lg:text-5xl font-semibold text-white">
+		<div className="py-10 lg:py-0">
+			<div className="lg:w-3/4 w-4/5 text-center lg:py-16 pb-5 lg:leading-tight m-auto text-2xl lg:text-5xl font-semibold text-white">
 				Единый хаб волонтеров, система наград и карта
 				мероприятий в Вашем кармане.
 			</div>
-			<div className="lg:w-2/5 w-4/5 py-2 text-white m-auto text-center">
+			<div className="lg:w-2/5 w-4/5 py-2 text-white m-auto text-s text-center">
 				Lorem ipsum dolor sit amet, consectetur adipiscing
 				elit, sed do eiusmod tempor incididunt ut labore et
 				dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -306,7 +306,7 @@ const ContactForm = () => {
 						Имя
 					</label>
 					<input
-						class="appearance-none block w-full bg-gray-200 text-gray-700 border rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
+						class="appearance-none block w-full bg-gray-200 text-white borde rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
 						id="grid-first-name"
 						type="text"
 						placeholder="Аян"
@@ -336,7 +336,7 @@ const ContactForm = () => {
 						E-mail
 					</label>
 					<input
-						class="appearance-none block w-full bg-gray-200 text-gray-700 border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
+						class="appearance-none block w-full bg-gray-200 text-white border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
 						id="email"
 						type="email"
 					></input>
@@ -391,6 +391,11 @@ const ContactForm = () => {
 						class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none"
 						id="message"
 					></textarea>
+					<p class="text-gray-600 text-xs italic">
+						Re-size can be disabled by set by
+						resize-none / resize-y / resize-x /
+						resize
+					</p>
 				</div>
 			</div>
 			<div class="md:flex md:items-center">
@@ -399,7 +404,7 @@ const ContactForm = () => {
 						class="shadow bg-emerald-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
 						type="button"
 					>
-						Отправить
+						Send
 					</button>
 				</div>
 				<div class="md:w-2/3"></div>
