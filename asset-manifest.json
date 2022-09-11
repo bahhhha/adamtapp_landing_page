@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7061233.css",
-    "main.js": "/static/js/main.f90615a9.js",
-    "static/js/787.6606bfd5.chunk.js": "/static/js/787.6606bfd5.chunk.js",
-    "static/media/team.svg": "/static/media/team.f549ba96aba304ac9aeddb763c51d5ae.svg",
-    "static/media/map.svg": "/static/media/map.2aa6d39478ad5ff896054823e1145e53.svg",
-    "static/media/awards.svg": "/static/media/awards.67db38a9ebe59c970d04317f058eb71c.svg",
-    "static/media/gifts.svg": "/static/media/gifts.8ba40f4a4c33498224178a3f803eccc3.svg",
-    "static/media/experts.webp": "/static/media/experts.b8950fb714bd3f36cc0e.webp",
-    "static/media/24hour.webp": "/static/media/24hour.9752014775beaed5f702.webp",
-    "static/media/fund.webp": "/static/media/fund.7638024e4a6cb855c0af.webp",
-    "static/media/government.webp": "/static/media/government.b22a8689eb17012e2928.webp",
-    "static/media/hospital.webp": "/static/media/hospital.8ffa7d4c7a61119b154a.webp",
-    "static/media/communication.webp": "/static/media/communication.05a562d7ac303697b2d9.webp",
-    "static/media/sport.webp": "/static/media/sport.a22a937a1d5c42a124cb.webp",
-    "index.html": "/index.html",
-    "main.d7061233.css.map": "/static/css/main.d7061233.css.map",
-    "main.f90615a9.js.map": "/static/js/main.f90615a9.js.map",
-    "787.6606bfd5.chunk.js.map": "/static/js/787.6606bfd5.chunk.js.map"
+    "main.css": "/adamtapp_landing_page/static/css/main.d7061233.css",
+    "main.js": "/adamtapp_landing_page/static/js/main.ed985356.js",
+    "static/js/787.6606bfd5.chunk.js": "/adamtapp_landing_page/static/js/787.6606bfd5.chunk.js",
+    "static/media/team.svg": "/adamtapp_landing_page/static/media/team.f549ba96aba304ac9aeddb763c51d5ae.svg",
+    "static/media/map.svg": "/adamtapp_landing_page/static/media/map.2aa6d39478ad5ff896054823e1145e53.svg",
+    "static/media/awards.svg": "/adamtapp_landing_page/static/media/awards.67db38a9ebe59c970d04317f058eb71c.svg",
+    "static/media/gifts.svg": "/adamtapp_landing_page/static/media/gifts.8ba40f4a4c33498224178a3f803eccc3.svg",
+    "static/media/experts.webp": "/adamtapp_landing_page/static/media/experts.b8950fb714bd3f36cc0e.webp",
+    "static/media/24hour.webp": "/adamtapp_landing_page/static/media/24hour.9752014775beaed5f702.webp",
+    "static/media/fund.webp": "/adamtapp_landing_page/static/media/fund.7638024e4a6cb855c0af.webp",
+    "static/media/government.webp": "/adamtapp_landing_page/static/media/government.b22a8689eb17012e2928.webp",
+    "static/media/hospital.webp": "/adamtapp_landing_page/static/media/hospital.8ffa7d4c7a61119b154a.webp",
+    "static/media/communication.webp": "/adamtapp_landing_page/static/media/communication.05a562d7ac303697b2d9.webp",
+    "static/media/sport.webp": "/adamtapp_landing_page/static/media/sport.a22a937a1d5c42a124cb.webp",
+    "index.html": "/adamtapp_landing_page/index.html",
+    "main.d7061233.css.map": "/adamtapp_landing_page/static/css/main.d7061233.css.map",
+    "main.ed985356.js.map": "/adamtapp_landing_page/static/js/main.ed985356.js.map",
+    "787.6606bfd5.chunk.js.map": "/adamtapp_landing_page/static/js/787.6606bfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7061233.css",
-    "static/js/main.f90615a9.js"
+    "static/js/main.ed985356.js"
   ]
 }
