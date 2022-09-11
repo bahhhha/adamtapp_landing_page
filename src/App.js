@@ -296,7 +296,7 @@ const WelcomeText = () => {
 
 const ContactForm = () => {
 	return (
-		<form class="w-full max-w-lg lg:w-1/2 m-auto py-10">
+		<form class="w-full max-w-lg lg:w-1/2 m-auto py-10 p-5 lg:p-0">
 			<div class="flex flex-wrap -mx-3 mb-6">
 				<div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
 					<label
@@ -404,7 +404,7 @@ const ContactForm = () => {
 						class="shadow bg-emerald-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
 						type="button"
 					>
-						Send
+						Отправить
 					</button>
 				</div>
 				<div class="md:w-2/3"></div>
