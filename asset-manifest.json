@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adamtapp_landing_page/static/css/main.c9c2b338.css",
-    "main.js": "/adamtapp_landing_page/static/js/main.4addbdf3.js",
+    "main.css": "/adamtapp_landing_page/static/css/main.682f7181.css",
+    "main.js": "/adamtapp_landing_page/static/js/main.c96bac69.js",
     "static/js/787.6606bfd5.chunk.js": "/adamtapp_landing_page/static/js/787.6606bfd5.chunk.js",
     "static/media/team.svg": "/adamtapp_landing_page/static/media/team.f549ba96aba304ac9aeddb763c51d5ae.svg",
     "static/media/map.svg": "/adamtapp_landing_page/static/media/map.2aa6d39478ad5ff896054823e1145e53.svg",
@@ -15,12 +15,12 @@
     "static/media/communication.webp": "/adamtapp_landing_page/static/media/communication.05a562d7ac303697b2d9.webp",
     "static/media/sport.webp": "/adamtapp_landing_page/static/media/sport.a22a937a1d5c42a124cb.webp",
     "index.html": "/adamtapp_landing_page/index.html",
-    "main.c9c2b338.css.map": "/adamtapp_landing_page/static/css/main.c9c2b338.css.map",
-    "main.4addbdf3.js.map": "/adamtapp_landing_page/static/js/main.4addbdf3.js.map",
+    "main.682f7181.css.map": "/adamtapp_landing_page/static/css/main.682f7181.css.map",
+    "main.c96bac69.js.map": "/adamtapp_landing_page/static/js/main.c96bac69.js.map",
     "787.6606bfd5.chunk.js.map": "/adamtapp_landing_page/static/js/787.6606bfd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9c2b338.css",
-    "static/js/main.4addbdf3.js"
+    "static/css/main.682f7181.css",
+    "static/js/main.c96bac69.js"
   ]
 }
